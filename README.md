@@ -18,15 +18,32 @@ Overall, this app would be a useful tool for anyone looking to quickly generate 
 
 
 
-## QRCODE
+## PIP Installation
 
-#### Installation
+####  Linux & MacOS
 
 ```
-  pip install -r requirements.txt
+python -m ensurepip --upgrade
+```
+
+#### Windows
+
+```
+py get-pip.py
+```
+
+## QRCODE Installation
+
+To run the QRCODE Installation first you need to have PIP.
+
+#### Windows, Linux & MacOS
+
+```
+pip install -r requirements.txt
 ```
 
 This command installs all the necessary packages, in this case QRCODE.
+
 
 
 ## Author(s)
