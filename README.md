@@ -53,12 +53,6 @@ This command installs all the necessary packages, in this case QRCODE.
 
 - [@Isomeg](https://github.com/Isomeg)
 
-## My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Isomeg&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isomeg&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
  <div>
   <img src="https://icons-for-free.com/download-icon-Coding-1320568096072194118_512.png" alt="Programing" width="160" height="160"/>
