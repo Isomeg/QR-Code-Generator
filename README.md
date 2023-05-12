@@ -22,7 +22,7 @@ Overall, this app would be a useful tool for anyone looking to quickly generate 
 
 #### Installation
 
-```http
+```
   pip install -r requirements.txt
 ```
 
