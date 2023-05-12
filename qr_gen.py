@@ -3,7 +3,7 @@ import os
 
 
 dir_path = './QRCODES/'
-count = 01
+count = 0
 
 def generate_qrcode(text):
     qr = qrcode.QRCode(
