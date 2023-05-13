@@ -23,5 +23,5 @@ for path in os.listdir(dir_path):
     if os.path.isfile(os.path.join(dir_path, path)):
         count += 1
 
-url = input("Enter your url: ")
-generate_qrcode(url)
+user_input = input("Enter the desire URL/PHONE NUMBER/EMAIL: ")
+generate_qrcode(user_input)
